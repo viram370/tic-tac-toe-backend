@@ -1,0 +1,11 @@
+{
+  "name": "tic-tac-toe-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "ws": "^8.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
